@@ -2,3 +2,4 @@
 export function GetMenuList(){
 	alert(111111)
 }
+GetMenuList()
